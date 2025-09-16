@@ -1,0 +1,1 @@
+Developer guide: run `make dev`, see backend and mobile folders.
